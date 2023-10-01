@@ -15,7 +15,6 @@
 </ol>
 <code>git clone https://github.com/pro-shubham-jain/nextTodo.git</code>
 
-
 <h2>Usage</h2>
 <ol>
     <li>Launch the NextTodo app on your device.</li>
@@ -47,14 +46,12 @@
 <h2>Data Storage</h2>
 <p>NextTodo uses SQLite for data storage. All tasks and their completion status are saved locally on your device.</p>
 
-
 <h2>Acknowledgments</h2>
 <p>This app was built using the Prism library and SQLite for Xamarin.Forms. We would like to thank the open-source community for their contributions to these libraries.</p>
 
 <h2> Getting Started </h2>
 
 <p>First, run the development server:</p>
-
 <code>
 npm run dev
 # or
