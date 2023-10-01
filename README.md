@@ -8,24 +8,13 @@
     <li>View a list of all tasks, with completed tasks visually distinguished.</li>
 </ul>
 
-<h2>Prerequisites</h2>
-<p>Before you can build and run the NextTodo app, you need to ensure that you have the following prerequisites installed:</p>
-<ul>
-    <li>Prism Library for Xamarin.Forms.</li>
-    <li>SQLite for Xamarin.Forms.</li>
-</ul>
-
 <h2>Installation</h2>
 <p>To get started with NextTodo, follow these steps:</p>
 <ol>
     <li>Clone the NextTodo repository to your local machine:</li>
 </ol>
-<code>git clone https://github.com/your-username/NextTodo.git</code>
-<ol start="2">
-    <li>Open the solution in Visual Studio or your preferred Xamarin.Forms development environment.</li>
-    <li>Build the solution to restore the necessary NuGet packages.</li>
-    <li>Run the app on your preferred target platform (Android/iOS).</li>
-</ol>
+<code>git clone https://github.com/pro-shubham-jain/nextTodo.git</code>
+
 
 <h2>Usage</h2>
 <ol>
@@ -65,6 +54,7 @@
 <h2> Getting Started </h2>
 
 <p>First, run the development server:</p>
+
 <code>
 npm run dev
 # or
